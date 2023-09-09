@@ -37,14 +37,9 @@
 
 ## Convenção de Commits
 
-| Tipo de Commit | Descrição                                                                                                 |
+| Tipo de Commit | Descrição Material de apoio para estudo complementar                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------- |
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.                                                              |
-| `fix`          | Corrige um bug ou problema no projeto.                                                                    |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                     |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                              |
-| `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
-| `test`         | Adiciona ou modifica testes no projeto.                                                                   |
+| `feat`         | Adicionar material de apoio em PDF para estudo complementar dos alunos.                                                                                                    |
 
 ##### Exemplo commit
 
